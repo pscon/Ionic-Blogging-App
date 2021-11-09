@@ -1,0 +1,7 @@
+{
+  "name": "blog-ionic-angle",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
